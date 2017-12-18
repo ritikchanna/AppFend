@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">AppLock</string>
+    <string name="app_name">Minimal App Lock</string>
+    <string name="accessibility_service_description">Required to monitor other apps for locking</string>
+    <string name="set_password">Set Password</string>
+    <string name="verify_password">Verify Password</string>
+    <string name="clear_data">This will clear all AppLock data, Continue ?</string>
+    <string name="require_accessibility">Please enable Accessibility Service for Minimal App Lock</string>
+    <string name="prevent_uninstall">To prevent uninstalling of Minimal App Lock, Turn on Device Administrator</string>
+    <string name="preferences_admin_enabled_dialog_message">By clicking \'Yes\' you will revoke administration privileges on this device. Without these privileges, Minimal App Lock won\'t be able to lock your device.\nAre you sure?</string>
 </resources>
