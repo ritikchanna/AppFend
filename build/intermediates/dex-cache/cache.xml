@@ -2,22 +2,175 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/media/superuser/01D30E093B3C04C0/Workspace/Android/Applock/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\SuperUser\.android\build-cache\3e9dbbdeb37e0c091cc537f67331cdaa7056d585\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="26.0.1"
-        sha1="34edf2fa9af82f6b7df5b727a7ae15d71aae6477">
-        <dex dex="/media/superuser/01D30E093B3C04C0/Workspace/Android/Applock/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c3ab4c7a4854bd55c9bc589d41d56d23a0189f35/classes.dex" />
+        revision="25.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="E:\Workspace\Android\MinimalAppLock\app\build\intermediates\pre-dexed\release\classes_0670b15d167b2d201469e6c2f76a33bd63adf36a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SuperUser\.android\build-cache\03e5516d6336a7bf8252ae86d3eb065cf0d91491\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="E:\Workspace\Android\MinimalAppLock\app\build\intermediates\pre-dexed\release\classes_2b8e3855eae5fb7e74b2695ff99c297445f796c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SuperUser\.android\build-cache\be8824e3caa415d709d716b847fdbbf09c8354ae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Workspace\Android\MinimalAppLock\app\build\intermediates\pre-dexed\release\classes_905dc12cd94e500cf69d6802878e067fd9765ab2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SuperUser\.android\build-cache\af0584042165e71b5f1ebc4833846227864fe926\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\Workspace\Android\MinimalAppLock\app\build\intermediates\pre-dexed\release\classes_6076656342015fbe2c993729cd8f613419ed9e11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SuperUser\.android\build-cache\4be37cd95e1f52e7ea65befb939d36152c348f09\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\Workspace\Android\MinimalAppLock\app\build\intermediates\pre-dexed\release\classes_6e2387efbf82b932ad98ec9857759660aabd9caf.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="/media/superuser/01D30E093B3C04C0/Workspace/Android/Applock/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="E:\Workspace\Android\MinimalAppLock\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
-        revision="26.0.1"
+        revision="25.0.0"
+        sha1="052950b2528db77cfc6efe9636d3e5a095db2079">
+        <dex dex="E:\Workspace\Android\MinimalAppLock\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_77acdecc1d7f91b37402e59dfac084ce1a587170\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SuperUser\.android\build-cache\7c02024b274afc817810177a6630ccc26e055eed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="E:\Workspace\Android\MinimalAppLock\app\build\intermediates\pre-dexed\release\classes_46b509ded1e5388b62f7e2b08193c0322038e3f5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SuperUser\.android\build-cache\0d01ffa63f8fd0760addd3b55cd702034488113f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1e6226a8404b0482b3133c9bbcbe3f64446a78f2">
+        <dex dex="E:\Workspace\Android\MinimalAppLock\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f48da13f431f32e7f57c9bea3b8c4c15a64f3983\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SuperUser\.android\build-cache\8486ebc8c238d2bfac14559b72681e54ff5f983c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\Workspace\Android\MinimalAppLock\app\build\intermediates\pre-dexed\release\classes_c243c6520c809257dcf3e0d6a95eedc0356b17e8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Workspace\Android\MinimalAppLock\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/media/superuser/01D30E093B3C04C0/Workspace/Android/Applock/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_eaf1f89347a92a5caa207414feebb523eb771540/classes.dex" />
+        <dex dex="E:\Workspace\Android\MinimalAppLock\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d33531aed9a0f65bb24d19bb20b6eb977abc2be3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="E:\Workspace\Android\MinimalAppLock\app\build\intermediates\pre-dexed\release\support-annotations-26.0.0-alpha1_f89c3b5a0fc1c0e1c1b1307f37a68e33027f3009.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SuperUser\.android\build-cache\2877844b7c70b6e297609d6028c8331936fcf034\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\Workspace\Android\MinimalAppLock\app\build\intermediates\pre-dexed\release\classes_fc63ab4ebf9f1db4f9e594f449fd147847e38e64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SuperUser\.android\build-cache\651283d629968ef391e34dcdebe64addec84805d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="E:\Workspace\Android\MinimalAppLock\app\build\intermediates\pre-dexed\release\classes_86591a085b9ddc47dff8b1c2aa9e0788dd61daf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SuperUser\.android\build-cache\3ecbae182ccb2eddfc06af9c5547823400259d79\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="E:\Workspace\Android\MinimalAppLock\app\build\intermediates\pre-dexed\release\classes_4db0bf43f767f4dd68cec711a9a24eea0c90e219.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SuperUser\.android\build-cache\854a29dac296928819a734f9bae27ee68a0eb59b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\Workspace\Android\MinimalAppLock\app\build\intermediates\pre-dexed\release\classes_fc40c8e4b7a42b72154505d016730f5da8649fa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SuperUser\.android\build-cache\bc27a50a70dd610ac947be01bf423ead7c47e29a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e66fc1e1b8b3389d086a5b0a4e1d9133288851c">
+        <dex dex="E:\Workspace\Android\MinimalAppLock\app\build\intermediates\pre-dexed\release\classes_0e19a4b610003572ce04a86c90b14929f9cc5f3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\Workspace\Android\MinimalAppLock\app\build\intermediates\pre-dexed\release\constraint-layout-solver-1.0.2_2e3f7bbba17c57096a48cc2ed6b539464ef724d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SuperUser\.android\build-cache\0d01ffa63f8fd0760addd3b55cd702034488113f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1e6226a8404b0482b3133c9bbcbe3f64446a78f2">
+        <dex dex="E:\Workspace\Android\MinimalAppLock\app\build\intermediates\pre-dexed\release\classes_f48da13f431f32e7f57c9bea3b8c4c15a64f3983.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SuperUser\.android\build-cache\41666b02c491b7af0c340b0a59bba1884403f1b5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="E:\Workspace\Android\MinimalAppLock\app\build\intermediates\pre-dexed\release\classes_a4dd1e6180cc180994a77d96132ba7d2a1804d8a.jar" />
     </item>
 
 </items>
